@@ -4,8 +4,7 @@ Created on Fri Nov  7 15:58:31 2025
 
 @author: Raziun
 
-Title: DRT analysis with Simple, Bayesian, and Hilbert Transform methods
-Using pyDRTtools_ implementation
+Title: DRT analysis for PEMFCs
 """
 
 # Python modules 
@@ -453,4 +452,5 @@ if len(successful_indices) > 0:
 
 print("\n" + "="*60)
 print("Analysis complete!")
+
 print("="*60)
